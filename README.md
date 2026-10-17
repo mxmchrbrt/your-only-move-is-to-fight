@@ -8,8 +8,10 @@
 I was in charge of the network, sound design, UI and organization of the project.
 
 ## Credits:
+```
 Julien Guiauchain
 Ragnar Kazunin
 Luca Batisson
 Luciana Aoun
 Maxime Charberet
+```
